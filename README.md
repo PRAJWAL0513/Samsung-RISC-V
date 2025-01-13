@@ -1,4 +1,4 @@
-# Samsung RISC-V Workshop
+# SAMSUNG RISC-V Workshop
 
 Explore the Samsung Semiconductor RISC-V Workshop, an initiative delving into the open-source RISC-V architecture with the VSDSquadron Mini RISC-V development board. This platform leverages RISC-V’s open standard instruction set architecture (ISA) to drive innovative processor designs through collaborative development.
 
