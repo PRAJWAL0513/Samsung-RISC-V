@@ -12,10 +12,6 @@ Explore the Samsung Semiconductor RISC-V Workshop, an initiative delving into th
 ## Table of Contents
 - [Task 1: RISC-V ISA and GNU Toolchain](#task-1-risc-v-isa-and-gnu-toolchain)
 - [Task 2: Samsung RISC-V Processor Architecture Analysis](#task-2-samsung-risc-v-processor-architecture-analysis)
-/*- [Task 3: Coming Soon](#task-3-coming-soon)
-- [Task 4: Coming Soon](#task-4-coming-soon)
-- [Task 5: Coming Soon](#task-5-coming-soon)
-- [Task 6: Coming Soon](#task-6-coming-soon)*/
 
 ## Task 1: RISC-V ISA and GNU Toolchain
 
@@ -72,17 +68,7 @@ This task provides an in-depth look at Samsung’s RISC-V processor architecture
 - Optimal resource management
 - Balanced pipelining for increased throughput
 
-## Task 3: Coming Soon
-*Content will be added shortly.*
 
-## Task 4: Coming Soon
-*Content will be added shortly.*
-
-## Task 5: Coming Soon
-*Content will be added shortly.*
-
-## Task 6: Coming Soon
-*Content will be added shortly.*
 
 ## Contributing
 Contributions to improve this workshop documentation are encouraged. Please adhere to the standard GitHub pull request workflow.
