@@ -1,4 +1,4 @@
-# Samsung RISC-V Workshop Documentation
+# Samsung RISC-V Workshop 
 
 Welcome to the Samsung Semiconductor RISC-V Workshop documentation! This workshop explores the open-source RISC-V architecture using the VSDSquadron Mini RISC-V development board. RISC-V's open standard instruction set architecture (ISA) enables a new era of processor innovation through open standard collaboration.
 
