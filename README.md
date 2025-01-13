@@ -55,11 +55,7 @@ This task provides an in-depth look at Samsung’s RISC-V processor architecture
 ![Control Flow Diagram](images/task2_vsd2.png)
 *A representation of control flow operations, showcasing inter-unit communication and the pathways enabling efficient instruction execution.*
 
-#### 3. Pipeline Execution Design
-![Pipeline Architecture](images/task2_vsd3.png)
-*A depiction of the pipelined execution process, illustrating how multiple instructions are processed simultaneously for enhanced performance.*
-
-#### 4. Memory Organization and Cache Design
+#### 3. Memory Organization and Cache Design
 ![Memory Hierarchy](images/task2_vsd4.png)
 *Details of the memory hierarchy and cache structure, emphasizing the multi-level cache and efficient data management strategies.*
 
