@@ -2,16 +2,20 @@
 
 Explore the Samsung Semiconductor RISC-V Workshop, an initiative delving into the open-source RISC-V architecture with the VSDSquadron Mini RISC-V development board. This platform leverages RISC-V’s open standard instruction set architecture (ISA) to drive innovative processor designs through collaborative development.
 
+
+## Index
+- [Workshop Overview](#workshop-overview)
+- [Task 1: RISC-V ISA and GNU Toolchain](#task-1-risc-v-isa-and-gnu-toolchain)
+- [Task 2: Samsung RISC-V Processor Architecture Analysis](#task-2-samsung-risc-v-processor-architecture-analysis)
+- [Acknowledgments](#acknowledgments)
+- [License](#license)
+
 ## Workshop Overview
 - **Industry Partner**: Samsung Semiconductor
 - **Hardware Platform**: VSDSquadron Mini RISC-V Development Board
 - **Core Focus**: Open-source RISC-V ISA, Toolchain Development, System-on-Chip (SoC) Design
 - **Duration**: Comprehensive 6-Task Workshop
 - **Tools Used**: RISC-V GNU Toolchain, GCC Compiler
-
-## Table of Contents
-- [Task 1: RISC-V ISA and GNU Toolchain](#task-1-risc-v-isa-and-gnu-toolchain)
-- [Task 2: Samsung RISC-V Processor Architecture Analysis](#task-2-samsung-risc-v-processor-architecture-analysis)
 
 ## Task 1: RISC-V ISA and GNU Toolchain
 
